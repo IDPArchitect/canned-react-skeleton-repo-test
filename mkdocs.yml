@@ -1,0 +1,8 @@
+site_name: "React-Template-Backstage"
+site_description: "A React template deployed with Backstage"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core

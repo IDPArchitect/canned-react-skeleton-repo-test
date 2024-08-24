@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "React-Template-Backstage"
+  description: "A React template deployed with Backstage"
+  annotations:
+    github.com/project-slug: IDPArchitect/canned-react-skeleton-repo-test
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: website
+  lifecycle: experimental
+  owner: "group:default/team-a"
