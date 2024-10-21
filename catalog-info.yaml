@@ -6,6 +6,9 @@ metadata:
   annotations:
     github.com/project-slug: IDPArchitect/canned-react-skeleton-repo-test
     backstage.io/techdocs-ref: dir:.
+    vault.io/secrets-path: backstage/backstage-development
+    vault.io/secrets-engine: development
+
 spec:
   type: website
   lifecycle: experimental
