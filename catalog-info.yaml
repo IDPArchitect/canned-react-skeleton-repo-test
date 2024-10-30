@@ -12,4 +12,4 @@ metadata:
 spec:
   type: website
   lifecycle: experimental
-  owner: "group:default/team-a"
+  owner: "group:default/team-backstage"
